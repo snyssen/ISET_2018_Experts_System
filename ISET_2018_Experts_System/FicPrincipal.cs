@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ISET_2018_Experts_System
 {
-	public partial class Form1 : Form
+	public partial class EcranPrincipal : Form
 	{
-		public Form1()
+		public EcranPrincipal()
 		{
 			InitializeComponent();
 		}
